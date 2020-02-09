@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/avromanov2009/deploy/static/css/main.d1b05096.chunk.css",
+    "main.js": "/avromanov2009/deploy/static/js/main.bacd6800.chunk.js",
+    "main.js.map": "/avromanov2009/deploy/static/js/main.bacd6800.chunk.js.map",
+    "runtime-main.js": "/avromanov2009/deploy/static/js/runtime-main.7d41b2c1.js",
+    "runtime-main.js.map": "/avromanov2009/deploy/static/js/runtime-main.7d41b2c1.js.map",
+    "static/js/2.ae69f4c5.chunk.js": "/avromanov2009/deploy/static/js/2.ae69f4c5.chunk.js",
+    "static/js/2.ae69f4c5.chunk.js.map": "/avromanov2009/deploy/static/js/2.ae69f4c5.chunk.js.map",
+    "index.html": "/avromanov2009/deploy/index.html",
+    "precache-manifest.42951f9cd0897ec1f389d3858d17f87a.js": "/avromanov2009/deploy/precache-manifest.42951f9cd0897ec1f389d3858d17f87a.js",
+    "service-worker.js": "/avromanov2009/deploy/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/avromanov2009/deploy/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ae69f4c5.chunk.js.LICENSE.txt": "/avromanov2009/deploy/static/js/2.ae69f4c5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/avromanov2009/deploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d41b2c1.js",
+    "static/js/2.ae69f4c5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bacd6800.chunk.js"
+  ]
+}
